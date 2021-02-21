@@ -1,2 +1,2 @@
 # myrepositry
-I wanna try a new repository
+this is my new repository which I am checking whether I can build one or not
